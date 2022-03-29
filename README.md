@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffc5dc&height=300&section=header&text=Welcome%20Sohyun's%20git&fontSize=55)
+
 ### 안녕하세요 👋 개발자를 꿈꾸는 이소현입니다! 
 
 <div class="d-flex">
