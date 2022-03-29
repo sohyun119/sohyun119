@@ -1,7 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffc5dc&height=300&section=header&text=Welcome%20Sohyun's%20git&fontSize=55)
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=aed3ec&height=300&section=header&text=Welcome%20Sohyun's%20git&fontSize=60&fontColor=ffffff)
 
-### 안녕하세요 👋 개발자를 꿈꾸는 이소현입니다! 
-
+#### 안녕하세요 👋 성장하는 개발자가 되고 싶은 이소현입니다! 
+ 
+  
+### 👩🏻‍💻 tech stack 🛠
 <div class="d-flex">
 <img src="https://img.shields.io/badge/java-00739?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -17,7 +21,10 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 </div>
 
+### 📧 email 📧
+sh-119@naver.com  
 
+</div>
 <!--
 **sohyun119/sohyun119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
