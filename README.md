@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 👋 개발자를 꿈꾸는 이소현입니다! 
 
 <!--
 **sohyun119/sohyun119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
