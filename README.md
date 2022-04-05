@@ -2,7 +2,11 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=aed3ec&height=300&section=header&text=Welcome%20Sohyun's%20git&fontSize=60&fontColor=ffffff)
 
-#### 안녕하세요 👋 백엔드 개발자를 꿈꾸는 이소현입니다!
+안녕하세요 👋 저는 백엔드 개발자를 꿈꾸는 이소현입니다!
+  
+  
+  
+
   
 ### 👩🏻‍💻 tech stack 🛠
 <div class="d-flex">
