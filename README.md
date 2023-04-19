@@ -4,11 +4,13 @@
 
 ### 👩🏻‍💻 SoHyun Lee
   
-안녕하세요 🙇🏻‍♀ 성장하는 백엔드 개발자 이소현입니다! 
+안녕하세요 🙇🏻‍♀ 성장하는 백엔드 개발자 이소현입니다!
+  <br>
 협업과 피드백을 바탕으로 객관적으로 부족한 점을 파악하고 학습해 나가며
+  <br>
 더 나은 프로그램을 만들기 위해 노력합니다.
   
-
+<br>
   
 ### 🛠 tech stack
 <div class="d-flex">
@@ -26,6 +28,7 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 </div>
 
+<br>
   
 ### email 📧 
 sh-119@naver.com  
