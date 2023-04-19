@@ -36,7 +36,7 @@ sh-119@naver.com
 ### 📃 notion
   https://www.notion.so/2b67e3ca043f4c3f982dad7bbf5195b8
   
-<a href="https://www.notion.so/2b67e3ca043f4c3f982dad7bbf5195b8"><img src="https://img.shields.io/badge/Notion-white?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/2b67e3ca043f4c3f982dad7bbf5195b8"/></a> 
-<a href="mailto:sh-119@naver.com"><img src="https://img.shields.io/badge/Email-white?style=flat-square&logo=Email&logoColor=white&link=mailto:sh-119@naver.com"/></a>
+<a href="https://www.notion.so/2b67e3ca043f4c3f982dad7bbf5195b8"><img src="https://img.shields.io/badge/Notion?style=flat-square&logo=Notion&logoColor=#000000&link=https://www.notion.so/2b67e3ca043f4c3f982dad7bbf5195b8"/></a> 
+<a href="mailto:sh-119@naver.com"><img src="https://img.shields.io/badge/Email?style=flat-square&logo=Email&logoColor=white&link=mailto:sh-119@naver.com"/></a>
   
 
