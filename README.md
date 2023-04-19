@@ -13,9 +13,9 @@
 <br>
   
 ### 🤝 Connect Me
-<a href="mailto:sh-119@naver.com"><img src="https://img.shields.io/badge/gmail-#EA4335?style=flat-square&logo=gmail&logoColor=#EA4335&link=mailto:sh-119@naver.com"/></a>
+<a href="mailto:sh-119@naver.com"><img src="https://img.shields.io/badge/Mail?style=flat-square&logo=gmail&logoColor=#EA4335&link=mailto:sh-119@naver.com"/></a>
 <a href="https://www.notion.so/2b67e3ca043f4c3f982dad7bbf5195b8"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=#000000&link=https://www.notion.so/2b67e3ca043f4c3f982dad7bbf5195b8"/></a>
-<a href="https://www.instagram.com/sohyun_11.9/"><img src="https://img.shields.io/badge/instagram-#E4405F?style=flat-square&logo=instagram&logoColor=#E4405F&link=https://www.instagram.com/sohyun_11.9"/></a>
+<a href="https://www.instagram.com/sohyun_11.9/"><img src="https://img.shields.io/badge/instagram?style=flat-square&logo=instagram&logoColor=#E4405F&link=https://www.instagram.com/sohyun_11.9"/></a>
   
   
 <br>
@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=AmazonEC2&logoColor=#FF9900"/>
+<img src="https://img.shields.io/badge/amazonec2-FCC624?style=flat-square&logo=AmazonEC2&logoColor=#FF9900"/>
 
 <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
