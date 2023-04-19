@@ -30,9 +30,9 @@
 <br>
   
 ### 📧 email 
-sh-119@naver.com  
+<a href="mailto:sh-119@naver.com"><img src="https://img.shields.io/badge/Gmail-black?style=flat-square&logo=Mail&logoColor=black&link=mailto:자신의이메일"/></a>
   <br>
   
 ### 📃 notion
-<a href="https://www.notion.so/2b67e3ca043f4c3f982dad7bbf5195b8"><img src="https://img.shields.io/badge/Notion-white?style=flat-square&logo=Notion&logoColor=#000000&link=https://www.notion.so/2b67e3ca043f4c3f982dad7bbf5195b8"/></a> 
+<a href="https://www.notion.so/2b67e3ca043f4c3f982dad7bbf5195b8"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=#000000&link=https://www.notion.so/2b67e3ca043f4c3f982dad7bbf5195b8"/></a> 
   
