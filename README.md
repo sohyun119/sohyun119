@@ -9,6 +9,13 @@
   <br>
 더 나은 프로그램을 만들기 위해 노력합니다.
   
+  <br>
+### 🤝 Connect Me
+<a href="mailto:sh-119@naver.com"><img src="https://img.shields.io/badge/gmail-#EA4335?style=flat-square&logo=gmail&logoColor=#EA4335&link=mailto:sh-119@naver.com"/></a>
+<a href="https://www.notion.so/2b67e3ca043f4c3f982dad7bbf5195b8"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=#000000&link=https://www.notion.so/2b67e3ca043f4c3f982dad7bbf5195b8"/></a>
+<a href="https://www.instagram.com/sohyun_11.9/"><img src="https://img.shields.io/badge/instagram-#E4405F?style=flat-square&logo=instagram&logoColor=#E4405F&link=https://www.instagram.com/sohyun_11.9"/></a>
+  
+  
 <br>
   
 ### 🛠 tech stack
@@ -29,8 +36,4 @@
 
 <br>
   
-### 🤝 Connect Me
-<a href="mailto:sh-119@naver.com"><img src="https://img.shields.io/badge/Gmail-#EA4335?style=flat-square&logo=Gmail&logoColor=#EA4335&link=mailto:sh-119@naver.com"/></a>
-<a href="https://www.notion.so/2b67e3ca043f4c3f982dad7bbf5195b8"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=#000000&link=https://www.notion.so/2b67e3ca043f4c3f982dad7bbf5195b8"/></a>
-<a href="https://www.instagram.com/sohyun_11.9/"><img src="https://img.shields.io/badge/Instagram-#E4405F?style=flat-square&logo=Instagram&logoColor=#E4405F&link=https://www.instagram.com/sohyun_11.9"/></a>
-  
+
