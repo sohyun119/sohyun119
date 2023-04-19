@@ -1,14 +1,16 @@
-<div align="center">
+<div align="">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=aed3ec&height=300&section=header&text=Welcome%20Sohyun's%20git&fontSize=60&fontColor=ffffff)
 
-안녕하세요 👋 저는 백엔드 개발자를 꿈꾸는 이소현입니다!
+### 👩🏻‍💻 SoHyun Lee
   
-  
+안녕하세요 🙇🏻‍♀ 성장하는 백엔드 개발자 이소현입니다! 
+협업과 피드백을 바탕으로 객관적으로 부족한 점을 파악하고 학습해 나가며
+더 나은 프로그램을 만들기 위해 노력합니다.
   
 
   
-### 👩🏻‍💻 tech stack 🛠
+### 🛠 tech stack
 <div class="d-flex">
 <img src="https://img.shields.io/badge/java-orange?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -25,24 +27,5 @@
 </div>
 
   
-### 📧 email 📧
-sh-119@naver.com  
+### email 📧 sh-119@naver.com  
 
-  
-[![sohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohyun119)](https://github.com/anuraghazra/github-readme-stats)  
-  
-</div>
-<!--
-**sohyun119/sohyun119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
