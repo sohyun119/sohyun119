@@ -1,6 +1,5 @@
 <div align="">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=aed3ec&height=300&section=header&text=Welcome%20Sohyun's%20git&fontSize=60&fontColor=ffffff)
+
 
 ### 👩🏻‍💻 SoHyun Lee
   
