@@ -9,7 +9,9 @@
   <br>
 더 나은 프로그램을 만들기 위해 노력합니다.
   
-  <br>
+
+<br>
+  
 ### 🤝 Connect Me
 <a href="mailto:sh-119@naver.com"><img src="https://img.shields.io/badge/gmail-#EA4335?style=flat-square&logo=gmail&logoColor=#EA4335&link=mailto:sh-119@naver.com"/></a>
 <a href="https://www.notion.so/2b67e3ca043f4c3f982dad7bbf5195b8"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=#000000&link=https://www.notion.so/2b67e3ca043f4c3f982dad7bbf5195b8"/></a>
@@ -34,6 +36,5 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 </div>
 
-<br>
   
 
