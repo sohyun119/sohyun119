@@ -10,5 +10,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sohyun119&show_icons=true&theme=github_dark" width="45%"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohyun119&layout=compact&theme=github_dark" width="34%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohyun119&layout=compact&theme=github_dark&cache_seconds=60" width="34%"/>
 </p>
